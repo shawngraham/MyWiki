@@ -1,6 +1,6 @@
 {
     // The directory in which your notes are stored.
-    "wiki_directory": "C:\\Users\\Dan\\Dropbox\\Notes\\",
+    "wiki_directory": "/Users/shawngraham/Documents/notes-experiment-sublime/",
 
     // The preferred markdown extension
     "wiki_extension": ".md"
